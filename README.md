@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-  WuViewTool::Renderer.copyright(name, msg)
+  QiwuViewTool::Renderer.copyright(name, msg)
 ```
 
 ## Development
